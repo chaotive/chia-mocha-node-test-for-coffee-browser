@@ -4,6 +4,6 @@ This sample project uses Chia and Mocha to provide unit test capabilities to be 
 
 To see if the project code works, just load index.dev.html on Firefox or run it trough a web-server if using Chrome.
 To run the tests:
-    .1 please refer to project/build.bat to install dependencies with node.js
-    .2 run the tests from project root using the following command:
-        mocha --compilers coffee:coffee-script/register --recursive
+  1. please refer to project/build.bat to install dependencies with node.js
+  2. run the tests from project root using the following command:
+    - mocha --compilers coffee:coffee-script/register --recursive
